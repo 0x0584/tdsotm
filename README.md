@@ -28,7 +28,8 @@ XH@M!                   :S!!                        ~!R:    ~!MM!XH!!!!!!!!!!!!!
                :@SMHHHHHHHHH!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!H@:>
 
 ``` 
-originaly made by: [jrcastle](https://github.com/jrcastle)
+[source](http://www.ascii-code.com/ascii-art/music/musicians/pink-floyd.php)
+bash version made by: [jrcastle](https://github.com/jrcastle)
 
 converted to fish by me 
 
